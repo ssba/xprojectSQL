@@ -1,0 +1,1 @@
+type sql\*.sql > file.sql
